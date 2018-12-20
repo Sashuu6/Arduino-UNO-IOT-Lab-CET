@@ -1,6 +1,8 @@
 # Arduino-UNO-IOT-Lab-CET
 This repository contains powerpoint, pdf and program codes related to the class taken in IOT class.
 
+![Powerpoint](/home.png)
+
 # Contents
 
 1. Microcontroller PPT
